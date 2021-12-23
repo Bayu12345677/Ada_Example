@@ -1,1 +1,3 @@
-Auownwo9j29mapwnha9niznoamwhw92maplw0nIBGDiwnwowmoqbw9n29npapqn;
+var = "Author : Bayu riski";
+
+whos var
